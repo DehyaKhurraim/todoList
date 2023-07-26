@@ -2,16 +2,14 @@
 
 ![Flutter Version](https://img.shields.io/badge/flutter-v2.5.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 Welcome to the Todo List Static App, a simple and intuitive Flutter application to help you stay organized and manage your daily tasks efficiently. This app allows you to add new tasks, mark/unmark them as done, delete tasks, and even search for specific tasks using their titles.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Features
 
-- **Add New Task**: Easily add new tasks to your todo list with a simple interface.
+- **Add New Task**: Easily add new tasks to your to-do list with a simple interface.
 
 - **Mark/Unmark as Done**: Check off completed tasks, and if needed, unmark them as done.
 
@@ -51,16 +49,21 @@ Welcome to the Todo List Static App, a simple and intuitive Flutter application 
 
 ## Contributing
 
-This project is open to contributions. If you find any issues or want to add new features, feel free to open an issue or submit a pull request. Contributions are always welcome!
+We welcome contributions to enhance the To-Do App. If you have any suggestions, improvements, or bug fixes, please follow these steps:
+
+1. Fork this repository and create a new branch for your feature or bug fix.
+2. Make the necessary changes and commit them with descriptive messages.
+3. Push your changes to your forked repository.
+4. Open a pull request to the original repository, explaining your changes in detail.
+
+We appreciate your contributions and will review them as soon as possible.
 
 ## License
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DehyaKhurraim/E-Learning-Platform/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/DehyaKhurraim/E-Learning-Platform/releases)
 
-This Todo List Static App is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-Special thanks to the Flutter team and the vibrant community for making Flutter an amazing framework to work with.
+The FanoFan website is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the codebase according to the terms of this license.
 
 ---
 
-Happy task managing! If you encounter any issues or have suggestions for improvements, don't hesitate to let us know. We hope this app helps you stay organized and boosts your productivity.
+Thank you for choosing ToDo List! If you have any questions or feedback, please don't hesitate to contact our customer support team. Happy task mangment!
